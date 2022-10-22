@@ -1469,8 +1469,9 @@ github.com/prometheus/client_model v0.0.0-20190115171406-56726106282f/go.mod h1:
 github.com/prometheus/client_model v0.0.0-20190129233127-fd36f4220a90/go.mod h1:xMI15A0UPsDsEKsMN9yxemIoYk6Tm2C1GtYGdfGttqA=
 github.com/prometheus/client_model v0.0.0-20190812154241-14fe0d1b01d4/go.mod h1:xMI15A0UPsDsEKsMN9yxemIoYk6Tm2C1GtYGdfGttqA=
 github.com/prometheus/client_model v0.1.0/go.mod h1:xMI15A0UPsDsEKsMN9yxemIoYk6Tm2C1GtYGdfGttqA=
-github.com/prometheus/client_model v0.2.0 h1:uq5h0d+GuxiXLJLNABMgp2qUWDPiLvgCzz2dUR+/W/M=
 github.com/prometheus/client_model v0.2.0/go.mod h1:xMI15A0UPsDsEKsMN9yxemIoYk6Tm2C1GtYGdfGttqA=
+github.com/prometheus/client_model v0.3.0 h1:UBgGFHqYdG/TPFD1B1ogZywDqEkwp3fBMvqdiQ7Xew4=
+github.com/prometheus/client_model v0.3.0/go.mod h1:LDGWKZIo7rky3hgvBe+caln+Dr3dPggB5dvjtD7w9+w=
 github.com/prometheus/common v0.0.0-20181113130724-41aa239b4cce/go.mod h1:daVV7qP5qjZbuso7PdcryaAu0sAZbrN9i7WWcTMWvro=
 github.com/prometheus/common v0.2.0/go.mod h1:TNfzLD0ON7rHzMJeJkieUDPYmFC7Snx/y86RQel1bk4=
 github.com/prometheus/common v0.4.0/go.mod h1:TNfzLD0ON7rHzMJeJkieUDPYmFC7Snx/y86RQel1bk4=
@@ -1583,10 +1584,6 @@ github.com/smartcontractkit/chainlink-terra v0.1.4-0.20220930034731-ef9eb53de886
 github.com/smartcontractkit/chainlink-terra v0.1.4-0.20220930034731-ef9eb53de886/go.mod h1:4b37Z1FVslnJ1TLo1r1XtuB9ym1uF/minZFcZlIBAV0=
 github.com/smartcontractkit/libocr v0.0.0-20220812191430-db92a9fdaa52 h1:Nac1UCKJwt0AY15bAaorscflOcBs/FnmO7NoCh8Tons=
 github.com/smartcontractkit/libocr v0.0.0-20220812191430-db92a9fdaa52/go.mod h1:5JnCHuYgmIP9ZyXzgAfI5Iwu0WxBtBKp+ApeT5o1Cjw=
-github.com/smartcontractkit/ocr2keepers v0.4.4 h1:be+z4LTn1f/ym7AUSN9qbg1p5yMV1c9BrW1vayIoQ/c=
-github.com/smartcontractkit/ocr2keepers v0.4.4/go.mod h1:lDl4aRhKi9WEz7CmAC3+2GPIpfBzOs9xLLDVG84g98E=
-github.com/smartcontractkit/ocr2keepers v0.4.5 h1:GlMkovP1OWICmWg5w7Q/2CMQa4zTFbIi8S4FRkaZ5Nc=
-github.com/smartcontractkit/ocr2keepers v0.4.5/go.mod h1:lDl4aRhKi9WEz7CmAC3+2GPIpfBzOs9xLLDVG84g98E=
 github.com/smartcontractkit/ocr2keepers v0.4.6 h1:YbhX1YxNBupvriEqBCCwuaWkORghZ2oYyjafiXy7W7k=
 github.com/smartcontractkit/ocr2keepers v0.4.6/go.mod h1:lDl4aRhKi9WEz7CmAC3+2GPIpfBzOs9xLLDVG84g98E=
 github.com/smartcontractkit/ocr2vrf v0.0.0-20221017160540-1ebacaf4c7e7 h1:+BqHoR3VtOdTpVQf3QAK7n9YlMLQXN4/ouNxYLi75H8=
