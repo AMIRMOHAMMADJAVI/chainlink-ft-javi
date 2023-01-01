@@ -63,8 +63,8 @@ require (
 	github.com/smartcontractkit/chainlink-solana v1.0.2-0.20220930034647-edd5a863b876
 	github.com/smartcontractkit/chainlink-starknet/relayer v0.0.0-20220930034704-572ac07611cb
 	github.com/smartcontractkit/chainlink-terra v0.1.4-0.20220930034731-ef9eb53de886
-	github.com/smartcontractkit/libocr v0.0.0-20220812191430-db92a9fdaa52
-	github.com/smartcontractkit/ocr2keepers v0.4.6
+	github.com/smartcontractkit/libocr v0.0.0-20221209172631-568a30f68407
+	github.com/smartcontractkit/ocr2keepers v0.6.1
 	github.com/smartcontractkit/ocr2vrf v0.0.0-20221017160540-1ebacaf4c7e7
 	github.com/smartcontractkit/sqlx v1.3.5-0.20210805004948-4be295aacbeb
 	github.com/smartcontractkit/terra.go v1.0.3-0.20220108002221-62b39252ee16
@@ -91,7 +91,7 @@ require (
 	golang.org/x/term v0.0.0-20220722155259-a9ba230a4035
 	golang.org/x/text v0.3.7
 	golang.org/x/tools v0.1.12
-	gonum.org/v1/gonum v0.11.0
+	gonum.org/v1/gonum v0.12.0
 	google.golang.org/protobuf v1.28.1
 	gopkg.in/guregu/null.v4 v4.0.0
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
