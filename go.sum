@@ -1572,8 +1572,8 @@ github.com/sirupsen/logrus v1.6.0/go.mod h1:7uNnSEd1DgxDLC74fIahvMZmmYsHGZGEOFrf
 github.com/sirupsen/logrus v1.7.0/go.mod h1:yWOB1SBYBC5VeMP7gHvWumXLIWorT60ONWic61uBYv0=
 github.com/sirupsen/logrus v1.8.1 h1:dJKuHgqk1NNQlqoA6BTlM1Wf9DOH3NBjQyu0h9+AZZE=
 github.com/sirupsen/logrus v1.8.1/go.mod h1:yWOB1SBYBC5VeMP7gHvWumXLIWorT60ONWic61uBYv0=
-github.com/smartcontractkit/chainlink-relay v0.1.6-0.20220824173548-dab4ac0a6595 h1:B3OCQ+Zb+kgpWtoLvJTE7co38SOEtn4qt1B5QDPGlFk=
-github.com/smartcontractkit/chainlink-relay v0.1.6-0.20220824173548-dab4ac0a6595/go.mod h1:f6ju2ncT/Q1loAdiT2/8M7dtpkXwCaZvhfddyeBESXE=
+github.com/smartcontractkit/chainlink-relay v0.1.6 h1:RK1uPwm3lBeeBnNZCEAqoRbBjHHW7ivop0eev+/nVcM=
+github.com/smartcontractkit/chainlink-relay v0.1.6/go.mod h1:P7bBrDPwh5DltlVxiharH19uCbNwxVPHPeX3Z25Eol0=
 github.com/smartcontractkit/chainlink-solana v1.0.2-0.20220930034647-edd5a863b876 h1:uctLwzPqXUbWWcOiZaltKNtb2XfIDVE1yQ04uLZ3N7Q=
 github.com/smartcontractkit/chainlink-solana v1.0.2-0.20220930034647-edd5a863b876/go.mod h1:RUC+D9jE9pZsFlFhnWmye1/cAkVDOaNo3yoLh7D8JZ0=
 github.com/smartcontractkit/chainlink-starknet/ops v0.0.0-20220929160142-83f3bd710afa h1:FUuifM5IdC8PMzjBO4u/7dOW8UwlEc/7IazywbXMYgk=
@@ -1583,10 +1583,6 @@ github.com/smartcontractkit/chainlink-terra v0.1.4-0.20220930034731-ef9eb53de886
 github.com/smartcontractkit/chainlink-terra v0.1.4-0.20220930034731-ef9eb53de886/go.mod h1:4b37Z1FVslnJ1TLo1r1XtuB9ym1uF/minZFcZlIBAV0=
 github.com/smartcontractkit/libocr v0.0.0-20220812191430-db92a9fdaa52 h1:Nac1UCKJwt0AY15bAaorscflOcBs/FnmO7NoCh8Tons=
 github.com/smartcontractkit/libocr v0.0.0-20220812191430-db92a9fdaa52/go.mod h1:5JnCHuYgmIP9ZyXzgAfI5Iwu0WxBtBKp+ApeT5o1Cjw=
-github.com/smartcontractkit/ocr2keepers v0.4.4 h1:be+z4LTn1f/ym7AUSN9qbg1p5yMV1c9BrW1vayIoQ/c=
-github.com/smartcontractkit/ocr2keepers v0.4.4/go.mod h1:lDl4aRhKi9WEz7CmAC3+2GPIpfBzOs9xLLDVG84g98E=
-github.com/smartcontractkit/ocr2keepers v0.4.5 h1:GlMkovP1OWICmWg5w7Q/2CMQa4zTFbIi8S4FRkaZ5Nc=
-github.com/smartcontractkit/ocr2keepers v0.4.5/go.mod h1:lDl4aRhKi9WEz7CmAC3+2GPIpfBzOs9xLLDVG84g98E=
 github.com/smartcontractkit/ocr2keepers v0.4.6 h1:YbhX1YxNBupvriEqBCCwuaWkORghZ2oYyjafiXy7W7k=
 github.com/smartcontractkit/ocr2keepers v0.4.6/go.mod h1:lDl4aRhKi9WEz7CmAC3+2GPIpfBzOs9xLLDVG84g98E=
 github.com/smartcontractkit/ocr2vrf v0.0.0-20221017160540-1ebacaf4c7e7 h1:+BqHoR3VtOdTpVQf3QAK7n9YlMLQXN4/ouNxYLi75H8=
@@ -2047,8 +2043,8 @@ golang.org/x/sync v0.0.0-20200625203802-6e8e738ad208/go.mod h1:RxMgew5VJxzue5/jJ
 golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
 golang.org/x/sync v0.0.0-20201207232520-09787c993a3a/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
 golang.org/x/sync v0.0.0-20210220032951-036812b2e83c/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
-golang.org/x/sync v0.0.0-20220819030929-7fc1605a5dde h1:ejfdSekXMDxDLbRrJMwUk6KnSLZ2McaUCVcIKM+N6jc=
-golang.org/x/sync v0.0.0-20220819030929-7fc1605a5dde/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
+golang.org/x/sync v0.1.0 h1:wsuoTGHzEhffawBOhz5CYhcrV4IdKZbEyZjBMuTp12o=
+golang.org/x/sync v0.1.0/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
 golang.org/x/sys v0.0.0-20180823144017-11551d06cbcc/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
 golang.org/x/sys v0.0.0-20180830151530-49385e6e1522/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
 golang.org/x/sys v0.0.0-20180905080454-ebe1bf3edb33/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
