@@ -71,7 +71,7 @@ require (
 	github.com/smartcontractkit/wsrpc v0.3.10-0.20220317191700-8c8ecdcaed4a
 	github.com/spf13/cobra v1.5.0
 	github.com/spf13/viper v1.12.0
-	github.com/stretchr/testify v1.8.0
+	github.com/stretchr/testify v1.8.1
 	github.com/tendermint/tendermint v0.34.15
 	github.com/terra-money/core v0.5.20
 	github.com/theodesp/go-heaps v0.0.0-20190520121037-88e35354fe0a
@@ -83,8 +83,8 @@ require (
 	go.dedis.ch/fixbuf v1.0.3
 	go.dedis.ch/kyber/v3 v3.0.13
 	go.uber.org/atomic v1.9.0
-	go.uber.org/multierr v1.8.0
-	go.uber.org/zap v1.23.0
+	go.uber.org/multierr v1.10.0
+	go.uber.org/zap v1.25.0
 	golang.org/x/crypto v0.0.0-20221012134737-56aed061732a
 	golang.org/x/exp v0.0.0-20220608143224-64259d1afd70
 	golang.org/x/sync v0.0.0-20220819030929-7fc1605a5dde
@@ -118,7 +118,7 @@ require (
 	github.com/armon/go-metrics v0.3.10 // indirect
 	github.com/ava-labs/avalanchego v1.7.14-rc.8 // indirect
 	github.com/aybabtme/rgbterm v0.0.0-20170906152045-cc83f3b3ce59 // indirect
-	github.com/benbjohnson/clock v1.1.0 // indirect
+	github.com/benbjohnson/clock v1.3.0 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/bgentry/speakeasy v0.1.0 // indirect
 	github.com/blendle/zapdriver v1.3.1 // indirect
@@ -310,7 +310,7 @@ require (
 	github.com/spf13/cast v1.5.0 // indirect
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	github.com/stretchr/objx v0.4.0 // indirect
+	github.com/stretchr/objx v0.5.0 // indirect
 	github.com/subosito/gotenv v1.3.0 // indirect
 	github.com/syndtr/goleveldb v1.0.1-0.20220614013038-64ee5596c38a // indirect
 	github.com/tendermint/btcd v0.1.1 // indirect
